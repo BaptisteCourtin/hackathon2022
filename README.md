@@ -1,3 +1,16 @@
+## To start the project
+
+clone the project
+npm install
+
+cd server
+node server.js
+
+In an other terminal :
+npm start
+
+to connect you can use ba@ba.ba as email and 4 as password
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
